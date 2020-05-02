@@ -13,7 +13,7 @@ The aim of this project is to build a multi-section landing page, with a dynamic
 
 ### Live link
 
-[landing Page](#)
+[landing Page](https://sahilcodes-fend-p2.netlify.app)
 
 ### Getting started
 
